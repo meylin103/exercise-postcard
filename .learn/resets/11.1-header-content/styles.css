@@ -1,0 +1,11 @@
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
